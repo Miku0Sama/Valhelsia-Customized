@@ -1,0 +1,11 @@
+{
+  "valhelsia.first_start_message": "You have starting points available to spend on skills, open the skill menu to assign them (K by default).",
+  "valhelsia.getting_started_guide": "View the Getting Started Guide.",
+
+  "valhelsia.comment.entities": "-----Entities with missing or incorrect language entries-----",
+  "entity.immersive_portals.nether_portal_new": "Nether Portal",
+
+  "valhelsia.comment.misc":"-----Misc missing or incorrect language entries-----",
+  "carrier.key": "Carry",
+  "category.carrier": "Carrier"
+}
