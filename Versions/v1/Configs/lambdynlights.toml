@@ -1,0 +1,105 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				bat = true
+				rabbit = true
+				cod = true
+				salmon = true
+				item = true
+				axolotl = true
+				squid = true
+				wolf = true
+				pig = true
+				zombie = true
+				skeleton = true
+				glow_squid = true
+				creeper = true
+				cow = true
+				enderman = true
+				spider = true
+				chicken = true
+				sheep = true
+				turtle = true
+				villager = true
+				iron_golem = true
+				llama = true
+				pillager = true
+				zombie_villager = true
+				chest_minecart = true
+				witch = true
+				vindicator = true
+				cat = true
+				donkey = true
+				experience_orb = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+
+			[light_sources.settings.entities.tinyskeletons]
+				baby_skeleton = true
+
+			[light_sources.settings.entities.aqupd]
+				caracal = true
+				grizzly_bear = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				savannah_creeper = true
+				dripstone_creeper = true
+				spruce_creeper = true
+				hills_creeper = true
+
+			[light_sources.settings.entities.terrarianslimes]
+				blue_slime = true
+				mother_slime = true
+				green_slime = true
+
+			[light_sources.settings.entities.earthtojavamobs]
+				midnight_chicken = true
+				horned_sheep = true
+				skewbald_chicken = true
+				fuzzy_sheep = true
+				muddy_pig = true
+				pinto_cow = true
+				stormy_chicken = true
+				mottled_pig = true
+				patched_sheep = true
+				dairy_cow = true
+				bronzed_chicken = true
+				gold_crested_chicken = true
+				amber_chicken = true
+				rocky_sheep = true
+				pink_footed_pig = true
+				inky_sheep = true
+				rainbow_sheep = true
+				albino_cow = true
+				flecked_sheep = true
+				bold_striped_rabbit = true
+				sooty_pig = true
+				fancy_chicken = true
+
+			[light_sources.settings.entities.bewitchment]
+				snake = true
+				ghost = true
+

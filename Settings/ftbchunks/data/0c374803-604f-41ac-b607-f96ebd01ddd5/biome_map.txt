@@ -1,0 +1,15 @@
+#5C1 terralith:alpine_highlands
+#486 terralith:birch_taiga
+#0D6 terralith:cave/diorite_caves
+#4DB terralith:cave/fungal_caves
+#1A6 terralith:cave/granite_caves
+#4CA minecraft:dripstone_caves
+#4E2 terralith:hot_shrubland
+#2D6 minecraft:meadow
+#1DF minecraft:old_growth_birch_forest
+#3DC minecraft:plains
+#706 minecraft:savanna_plateau
+#71E terralith:savanna_slopes
+#421 minecraft:stony_peaks
+#774 minecraft:sunflower_plains
+#0B4 terralith:valley_clearing
