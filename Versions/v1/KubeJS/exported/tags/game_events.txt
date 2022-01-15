@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Jan 12, 2022, 8:25:07 PM
+To refresh this file, delete it and run /reload command again! Last updated: Jan 13, 2022, 3:26:38 PM
 
 #minecraft:vibrations
 - minecraft:block_attach
@@ -46,9 +46,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:step
 - minecraft:swim
 - minecraft:wolf_shaking
-
-#minecraft:clicking
-- minecraft:click
 
 #minecraft:ignore_vibrations_sneaking
 - minecraft:hit_ground

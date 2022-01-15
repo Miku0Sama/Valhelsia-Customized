@@ -4,10 +4,14 @@
 	"block": [
 		"minecraft:redstone_ore",
 		"techreborn:silver_ore",
-		//"artifality:budding_lunar_crystal",
-		//"artifality:small_lunar_crystal_cluster",
-		//"artifality:medium_lunar_crystal_cluster",
-		//"artifality:lunar_crystal_cluster",
-		"twigs:schist"
+		"modern_industrialization:nickel_ore",
+		"artifality:budding_lunar_crystal",
+		"artifality:small_lunar_crystal_cluster",
+		"artifality:medium_lunar_crystal_cluster",
+		"artifality:lunar_crystal_cluster",
+		"twigs:schist",
+		"universal_ores:granite_redstone_ore",
+		"universal_ores:diorite_redstone_ore",
+		"universal_ores:andesite_redstone_ore"
 	]
 }

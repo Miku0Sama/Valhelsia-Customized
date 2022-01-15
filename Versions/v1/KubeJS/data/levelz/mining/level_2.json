@@ -20,9 +20,15 @@
 		"minecraft:white_terracotta",
 		"minecraft:yellow_terracotta",
 		"minecraft:sandstone",
+		"minecraft:chiseled_sandstone",
+		"minecraft:cut_sandstone",
+		"minecraft:smooth_red_sandstone",
 		"minecraft:smooth_sandstone",
 		"minecraft:red_sandstone",
+		"minecraft:chiseled_red_sandstone",
+		"minecraft:cut_red_sandstone",
 		"minecraft:bone_block",
-		"minecraft:clay"
+		"minecraft:clay",
+		"croptopia:salt_ore"
 	]
 }

@@ -5,6 +5,7 @@
         "minecraft:emerald_ore",
         "techreborn:bauxite_ore",
         "techreborn:deepslate_bauxite_ore",
+		"modern_industrialization:deepslate_lignite_coal_ore",
         "minecraft:deepslate_coal_ore",
         "minecraft:deepslate_iron_ore",
         "minecraft:deepslate_copper_ore",
@@ -15,6 +16,11 @@
         "techreborn:deepslate_tin_ore",
         "techreborn:deepslate_silver_ore",
         "techreborn:deepslate_ruby_ore",
-        "minecraft:deepslate"
+		"modern_industrialization:deepslate_antimony_ore",
+		"modern_industrialization:deepslate_salt_ore",
+        "minecraft:deepslate",
+		"universal_ores:granite_emerald_ore",
+		"universal_ores:diorite_emerald_ore",
+		"universal_ores:andesite_emerald_ore"
     ]
 }

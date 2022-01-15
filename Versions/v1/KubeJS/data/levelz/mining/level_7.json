@@ -9,6 +9,9 @@
 		"minecraft:packed_ice",
 		"betterend:emerald_ice",
 		"betterend:dense_emerald_ice",
-		"betterend:ancient_emerald_ice"
+		"betterend:ancient_emerald_ice",
+		"universal_ores:granite_gold_ore",
+		"universal_ores:diorite_gold_ore",
+		"universal_ores:andesite_gold_ore"
 	]
 }

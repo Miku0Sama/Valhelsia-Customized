@@ -7,6 +7,8 @@
 		"minecraft:netherrack",
 		"minecraft:crimson_nylium",
 		"minecraft:warped_nylium",
-		"minecraft:magma_block"
+		"minecraft:magma_block",
+		"modern_industrialization:mozanite_ore",
+		"modern_industrialization:deepslate_mozanite_ore"
 	]
 }

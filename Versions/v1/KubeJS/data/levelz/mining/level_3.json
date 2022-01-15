@@ -2,6 +2,7 @@
 	"replace": true,
 	"level": 3,
 	"block": [
+		"minecraft:cobblestone",
 		"minecraft:stone",
         "minecraft:granite",
         "minecraft:andesite",

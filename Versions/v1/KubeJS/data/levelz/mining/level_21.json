@@ -2,5 +2,6 @@
 	"replace": true,
 	"level": 21,
 	"block": [
+		"modern_industrialization:titanium_ore"
 	]
 }

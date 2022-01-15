@@ -4,6 +4,10 @@
     "block": [
         "minecraft:coal_ore",
         "ae2:quartz_ore",
-        "blockus:marble"
+        "blockus:marble",
+		"modern_industrialization:lignite_coal_ore",
+		"universal_ores:granite_coal_ore",
+		"universal_ores:diorite_coal_ore",
+		"universal_ores:andesite_coal_ore"
     ]
 }

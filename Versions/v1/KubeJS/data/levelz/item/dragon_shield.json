@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "alchemy",
+    "level": 3,
+	"item": "minecraft:custom_item",
+    "object": "botania:twig_wand"
+}

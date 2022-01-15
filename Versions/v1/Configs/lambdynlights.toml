@@ -52,9 +52,22 @@ mode = "fancy"
 				cat = true
 				donkey = true
 				experience_orb = true
+				bee = true
+				tropical_fish = true
+				area_effect_cloud = true
+				drowned = true
+				slime = true
+				wandering_trader = true
+				trader_llama = true
+				lightning_bolt = true
+				phantom = true
+				llama_spit = true
+				illusioner = true
+				horse = true
 
 			[light_sources.settings.entities.adventurez]
 				amethyst_golem = true
+				summoner = true
 
 			[light_sources.settings.entities.tinyskeletons]
 				baby_skeleton = true
@@ -69,11 +82,18 @@ mode = "fancy"
 				dripstone_creeper = true
 				spruce_creeper = true
 				hills_creeper = true
+				swamp_creeper = true
+				dark_oak_creeper = true
+				beach_creeper = true
 
 			[light_sources.settings.entities.terrarianslimes]
 				blue_slime = true
 				mother_slime = true
 				green_slime = true
+				black_slime = true
+				yellow_slime = true
+				red_slime = true
+				pinky = true
 
 			[light_sources.settings.entities.earthtojavamobs]
 				midnight_chicken = true
@@ -98,8 +118,18 @@ mode = "fancy"
 				bold_striped_rabbit = true
 				sooty_pig = true
 				fancy_chicken = true
+				muddy_foot_rabbit = true
+				cream_cow = true
+				spotted_pig = true
+				lobber_zombie = true
+				piebald_pig = true
+				skeleton_wolf = true
 
 			[light_sources.settings.entities.bewitchment]
 				snake = true
 				ghost = true
+				werewolf = true
+
+			[light_sources.settings.entities.twm]
+				frog = true
 

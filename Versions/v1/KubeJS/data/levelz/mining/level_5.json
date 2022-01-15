@@ -2,6 +2,10 @@
     "replace": true,
     "level": 5,
     "block": [
-        "minecraft:copper_ore"
+        "minecraft:copper_ore",
+		"universal_ores:granite_copper_ore",
+		"universal_ores:diorite_copper_ore",
+		"universal_ores:andesite_copper_ore",
+		"modern_industrialization:salt_ore"
     ]
 }

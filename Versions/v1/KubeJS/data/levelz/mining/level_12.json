@@ -1,9 +1,14 @@
 {
-  "replace": false,
-  "level": 12,
-  "block": [
-    "minecraft:lapis_ore",
-    "minecraft:deepslate_lapis_ore",
-    "blockus:bluestone"
+	"replace": false,
+	"level": 12,
+	"block": [
+		"minecraft:lapis_ore",
+		"minecraft:deepslate_lapis_ore",
+		"blockus:bluestone",
+		"universal_ores:granite_lapis_ore",
+		"universal_ores:diorite_lapis_ore",
+		"universal_ores:andesite_lapis_ore",
+		"universal_ores:tuff_lapis_ore",
+		"universal_ores:calcite_lapis_ore"
   ]
 }

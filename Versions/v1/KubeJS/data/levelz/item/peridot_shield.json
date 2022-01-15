@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "defense",
+    "level": 3,
+	"item": "minecraft:custom_item",
+    "object": "basicshields:peridot_shield"
+}

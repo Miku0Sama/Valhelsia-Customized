@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "skill": "agility",
+    "level": 10,
+    "block": "minecraft:custom_block",
+    "object": "winged:wingbench"
+}

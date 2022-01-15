@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "strength",
+    "level": 30,
+    "item": "minecraft:custom_item",
+    "object": "botania:missile_rod"
+}

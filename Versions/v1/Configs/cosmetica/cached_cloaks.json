@@ -1095,11 +1095,6 @@
     "cloak": "crimson"
   },
   {
-    "name": "TheDarkSorcerer",
-    "uuid": "5a52e41b-c66b-47a4-bd33-faa780bc5e36",
-    "cloak": "cosmic"
-  },
-  {
     "name": "stickyGuy",
     "uuid": "461a6601-318c-4c70-8369-f50ae00075e1",
     "cloak": "mystic"
@@ -1670,13 +1665,18 @@
     "cloak": "jeb"
   },
   {
-    "name": "JinxieHavoc",
-    "uuid": "641cb212-8d44-4a2c-aa47-8396918fa336",
-    "cloak": "cosmic"
-  },
-  {
     "name": "Haikis",
     "uuid": "bf22cca4-60b6-4ab2-8c4d-fb38175d2697",
     "cloak": "violet"
+  },
+  {
+    "name": "TheDarkSorcerer",
+    "uuid": "5a52e41b-c66b-47a4-bd33-faa780bc5e36",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "LJC_100",
+    "uuid": "7fc03234-006a-47db-8f6b-552f2c2c9c4a",
+    "cloak": "swirly"
   }
 ]

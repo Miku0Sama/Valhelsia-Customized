@@ -31,5 +31,13 @@
     "note_block.note": "SHARP",
     "note_block.int_value": false,
     "pet.hide_unknown_owner": false
+  },
+  "levelz": {
+    "mineable_info": true,
+    "mineable_level_info": false
+  },
+  "horseinfo": {
+    "enabled": true,
+    "ignore_mount": false
   }
 }

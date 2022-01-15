@@ -1,4 +1,11 @@
-To refresh this file, delete it and run /reload command again! Last updated: Jan 12, 2022, 8:25:07 PM
+To refresh this file, delete it and run /reload command again! Last updated: Jan 13, 2022, 3:26:38 PM
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider
+- minecraft:blaze
+- minecraft:magma_cube
+- adventurez:stone_golem
+- adventurez:small_stone_golem
 
 #minecraft:axolotl_always_hostiles
 - minecraft:drowned
@@ -11,6 +18,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:snow_golem
 - minecraft:wither
 - adventurez:summoner
+
+#farmersdelight:horse_feed_users
+- minecraft:horse
+- minecraft:skeleton_horse
+- minecraft:zombie_horse
+- minecraft:donkey
+- minecraft:mule
+- minecraft:llama
 
 #minecraft:impact_projectiles
 - #minecraft:arrows
@@ -32,33 +47,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:stray
 - minecraft:wither_skeleton
 - adventurez:summoner
-
-#tinyskeletons:skeletons
-- tinyskeletons:baby_skeleton
-- tinyskeletons:baby_stray
-- tinyskeletons:baby_wither_skeleton
-
-#minecraft:arrows
-- minecraft:arrow
-- minecraft:spectral_arrow
-- direbats:direbat_fang_arrow
-
-#minecraft:freeze_hurts_extra_types
-- minecraft:strider
-- minecraft:blaze
-- minecraft:magma_cube
-- adventurez:stone_golem
-- adventurez:small_stone_golem
-
-#tradingpost:blacklisted_traders
-
-#farmersdelight:horse_feed_users
-- minecraft:horse
-- minecraft:skeleton_horse
-- minecraft:zombie_horse
-- minecraft:donkey
-- minecraft:mule
-- minecraft:llama
 
 #minecraft:raiders
 - minecraft:evoker
@@ -84,3 +72,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 
 #farmersdelight:dog_food_users
 - minecraft:wolf
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+- direbats:direbat_fang_arrow

@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "agility",
+    "level": 20,
+    "item": "minecraft:custom_item",
+    "object": "botania:rainbow_rod"
+}

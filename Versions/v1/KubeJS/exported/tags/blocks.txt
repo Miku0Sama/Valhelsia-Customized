@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Jan 12, 2022, 8:25:07 PM
+To refresh this file, delete it and run /reload command again! Last updated: Jan 13, 2022, 3:26:39 PM
 
 #terralith:knight_immune
 - #minecraft:wither_immune
@@ -187,13 +187,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:coarse_dirt
 - minecraft:snow
 
-#universal_ores:ores/iron
-- universal_ores:andesite_iron_ore
-- universal_ores:diorite_iron_ore
-- universal_ores:granite_iron_ore
-- universal_ores:tuff_iron_ore
-- universal_ores:calcite_iron_ore
-
 #minecraft:dragon_immune
 - minecraft:barrier
 - minecraft:bedrock
@@ -224,12 +217,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - #blockus:obsidian
 - blockus:nether_stars_block
 - infusion_table:infusion_table
-- kibe:obsidian_sand
-- kibe:wither_proof_block
-- kibe:wither_proof_sand
-- kibe:wither_proof_glass
-- kibe:wither_builder
-- yigd:grave
 
 #farmersdelight:heat_sources
 - minecraft:magma_block
@@ -255,13 +242,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - blockus:small_end_stone_brick_slab
 - blockus:purpur_decorated_end_stone
 - blockus:phantom_purpur_decorated_end_stone
-
-#universal_ores:ores/copper
-- universal_ores:andesite_copper_ore
-- universal_ores:diorite_copper_ore
-- universal_ores:granite_copper_ore
-- universal_ores:tuff_copper_ore
-- universal_ores:calcite_copper_ore
 
 #c:steel_blocks
 - techreborn:steel_storage_block
@@ -447,9 +427,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - decorative_blocks:jungle_seat
 - decorative_blocks:oak_seat
 - decorative_blocks:crimson_seat
-
-#mobscarecrow:scarecrow
-- mobscarecrow:scarecrow
 
 #blockus:soul_sandstone
 - blockus:soul_sandstone
@@ -669,17 +646,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:smooth_basalt
 - minecraft:blackstone
 
-#yigd:support_replace_whitelist
-- minecraft:air
-- minecraft:water
-- minecraft:lava
-
-#origins:unphasable
-- minecraft:barrier
-- minecraft:bedrock
-- minecraft:crying_obsidian
-- minecraft:obsidian
-
 #blockus:rainbow_blocks
 - blockus:rainbow_block
 - blockus:rainbow_bricks
@@ -701,9 +667,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:stone
 - minecraft:diorite
 - minecraft:andesite
-
-#minecraft:redstones_ores
-- #universal_ores:ores/redstone
 
 #terralith:tophack/cyan_concrete
 - minecraft:cyan_concrete
@@ -783,13 +746,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - techreborn:bauxite_ore
 - techreborn:deepslate_bauxite_ore
 
-#universal_ores:ores/gold
-- universal_ores:andesite_gold_ore
-- universal_ores:diorite_gold_ore
-- universal_ores:granite_gold_ore
-- universal_ores:tuff_gold_ore
-- universal_ores:calcite_gold_ore
-
 #c:chrome_blocks
 - techreborn:chrome_storage_block
 
@@ -838,44 +794,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - farmersdelight:organic_compost
 - farmersdelight:rich_soil
 - farmersdelight:rich_soil_farmland
-- kibe:cursed_dirt
-- kibe:obsidian_sand
-- kibe:wither_proof_sand
-- tokenablefurnaces:dirtchest
-- tokenablefurnaces:dirttrappedchest
-- minecraft:clay
-- minecraft:dirt
-- minecraft:coarse_dirt
-- minecraft:podzol
-- minecraft:farmland
-- minecraft:grass_block
-- minecraft:gravel
-- minecraft:mycelium
-- minecraft:sand
-- minecraft:red_sand
-- minecraft:snow_block
-- minecraft:snow
-- minecraft:soul_sand
-- minecraft:dirt_path
-- minecraft:white_concrete_powder
-- minecraft:orange_concrete_powder
-- minecraft:magenta_concrete_powder
-- minecraft:light_blue_concrete_powder
-- minecraft:yellow_concrete_powder
-- minecraft:lime_concrete_powder
-- minecraft:pink_concrete_powder
-- minecraft:gray_concrete_powder
-- minecraft:light_gray_concrete_powder
-- minecraft:cyan_concrete_powder
-- minecraft:purple_concrete_powder
-- minecraft:blue_concrete_powder
-- minecraft:brown_concrete_powder
-- minecraft:green_concrete_powder
-- minecraft:red_concrete_powder
-- minecraft:black_concrete_powder
-- minecraft:soul_soil
-- minecraft:rooted_dirt
-- twm:mud_block
 
 #terralith:bso_iron
 - #minecraft:base_stone_overworld
@@ -1861,7 +1779,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - twigs:polished_tuff_brick_wall
 - twigs:calcite_wall
 - twigs:polished_calcite_brick_wall
-- twm:mud_brick_wall
 
 #minecraft:coral_blocks
 - minecraft:tube_coral_block
@@ -2034,7 +1951,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #minecraft:coal_ores
 - minecraft:coal_ore
 - minecraft:deepslate_coal_ore
-- #universal_ores:ores/coal
 
 #c:yellow_garnet_blocks
 - techreborn:yellow_garnet_storage_block
@@ -2046,9 +1962,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - architects_palette:entwine_pillar
 - architects_palette:chiseled_entwine
 - architects_palette:entwine_bars
-
-#mobscarecrow:zombie_scarecrow
-- mobscarecrow:zombie_scarecrow
 
 #terralith:sand
 - minecraft:sand
@@ -2248,7 +2161,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - decorative_blocks:dark_oak_beam
 - decorative_blocks:oak_beam
 - decorative_blocks:spruce_beam
-- twm:mangrove_log
 
 #architects_palette:algal_bricks
 - architects_palette:algal_bricks
@@ -2384,12 +2296,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:respawn_anchor
 - minecraft:end_portal
 - minecraft:dragon_egg
-- voidz:void_portal
 
 #minecraft:emerald_ores
 - minecraft:emerald_ore
 - minecraft:deepslate_emerald_ore
-- #universal_ores:ores/emerald
 
 #blockus:soul_soils
 - minecraft:soul_sand
@@ -2450,20 +2360,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - ironchests:copper_chest
 - ironchests:iron_chest
 - ironchests:gold_chest
-- kibe:vacuum_hopper
-- kibe:heater
-- kibe:dehumidifier
-- kibe:iron_spikes
-- kibe:cobblestone_generator_mk1
-- kibe:basalt_generator_mk1
-- #universal_ores:ores/iron
-- #universal_ores:ores/copper
-- #universal_ores:ores/lapis
-
-#yigd:soft_whitelist
-- minecraft:air
-- minecraft:water
-- minecraft:lava
 
 #terralith:calcite_moss
 - minecraft:calcite
@@ -2589,7 +2485,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #minecraft:iron_ores
 - minecraft:iron_ore
 - minecraft:deepslate_iron_ore
-- #universal_ores:ores/iron
 
 #terralith:river_replace
 - minecraft:stone
@@ -2669,13 +2564,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:end_portal
 - minecraft:end_gateway
 
-#universal_ores:ores/redstone
-- universal_ores:andesite_redstone_ore
-- universal_ores:diorite_redstone_ore
-- universal_ores:granite_redstone_ore
-- universal_ores:tuff_redstone_ore
-- universal_ores:calcite_redstone_ore
-
 #blockus:phantom_purpur_blocks
 - blockus:phantom_purpur_block
 - blockus:phantom_purpur_slab
@@ -2713,7 +2601,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - blockus:white_oak_stairs
 - techreborn:rubber_plank_stair
 - twigs:stripped_bamboo_stairs
-- twm:mangrove_stairs
 
 #minecraft:carpets
 - minecraft:white_carpet
@@ -3071,9 +2958,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - blockus:gold_plating_stairs
 - blockus:gold_plating_slab
 
-#botania:gaia_break_blacklist
-- yigd:grave
-
 #minecraft:strider_warm_blocks
 - minecraft:lava
 
@@ -3184,22 +3068,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - blockus:red_glazed_terracotta_pillar
 - blockus:black_glazed_terracotta_pillar
 
-#c:slime_blocks
-- minecraft:slime_block
-- terrarianslimes:black_slime_block
-- terrarianslimes:blue_slime_block
-- terrarianslimes:corrupt_slime_block
-- terrarianslimes:crimson_slime_block
-- terrarianslimes:ice_slime_block
-- terrarianslimes:illuminant_slime_block
-- terrarianslimes:jungle_slime_block
-- terrarianslimes:pinky_slime_block
-- terrarianslimes:purple_slime_block
-- terrarianslimes:rainbow_slime_block
-- terrarianslimes:red_slime_block
-- terrarianslimes:sand_slime_block
-- terrarianslimes:yellow_slime_block
-
 #terralith:tundra_fill_layer
 - minecraft:lapis_block
 
@@ -3247,7 +3115,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:gold_ore
 - minecraft:nether_gold_ore
 - minecraft:deepslate_gold_ore
-- #universal_ores:ores/gold
 
 #c:sapphire_ores
 - techreborn:sapphire_ore
@@ -3255,16 +3122,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 
 #c:ores
 - #c:certus_quartz_ores
-- #minecraft:coal_ores
-- #minecraft:copper_ores
-- #minecraft:diamond_ores
-- #minecraft:emerald_ores
-- #minecraft:gold_ores
-- #minecraft:iron_ores
-- #minecraft:lapis_ores
-- #minecraft:redstone_ores
-- minecraft:ancient_debris
-- minecraft:nether_quartz_ore
 
 #minecraft:dirt
 - minecraft:dirt
@@ -3275,7 +3132,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:rooted_dirt
 - minecraft:moss_block
 - decorative_blocks:rocky_dirt
-- twm:mud_block
 
 #minecraft:candle_cakes
 - minecraft:candle_cake
@@ -3300,9 +3156,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - blockus:thatch
 - blockus:thatch_stairs
 - blockus:thatch_slab
-
-#mobscarecrow:skeleton_scarecrow
-- mobscarecrow:skeleton_scarecrow
 
 #c:peridot_blocks
 - techreborn:peridot_storage_block
@@ -3584,13 +3437,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - #blockus:phantom_purpur_blocks
 - minecraft:blue_ice
 
-#universal_ores:ores/lapis
-- universal_ores:andesite_lapis_ore
-- universal_ores:diorite_lapis_ore
-- universal_ores:granite_lapis_ore
-- universal_ores:tuff_lapis_ore
-- universal_ores:calcite_lapis_ore
-
 #blockus:ice_bricks
 - blockus:ice_bricks
 - blockus:ice_pillar
@@ -3657,13 +3503,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:black_wool
 - #blockus:patterned_wool
 - #lumiwool:wool
-
-#universal_ores:ores/diamond
-- universal_ores:andesite_diamond_ore
-- universal_ores:diorite_diamond_ore
-- universal_ores:granite_diamond_ore
-- universal_ores:tuff_diamond_ore
-- universal_ores:calcite_diamond_ore
 
 #terralith:tophack/white_concrete
 - minecraft:white_concrete
@@ -3930,9 +3769,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:packed_ice
 - minecraft:gravel
 
-#mobscarecrow:spider_scarecrow
-- mobscarecrow:spider_scarecrow
-
 #adventurez:platform_nether_blocks
 - minecraft:blackstone
 - minecraft:blackstone_slab
@@ -3946,7 +3782,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #minecraft:lapis_ores
 - minecraft:lapis_ore
 - minecraft:deepslate_lapis_ore
-- #universal_ores:ores/lapis
 
 #c:pyrite_ores
 - techreborn:pyrite_ore
@@ -5429,18 +5264,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - decorative_blocks:stone_pillar
 - farmersdelight:cooking_pot
 - farmersdelight:stove
-- geodes:emerald_geode
-- geodes:budding_emerald
-- geodes:quartz_geode
-- geodes:budding_quartz
-- geodes:emerald_cluster
-- geodes:small_emerald_bud
-- geodes:medium_emerald_bud
-- geodes:large_emerald_bud
-- geodes:quartz_cluster
-- geodes:small_quartz_bud
-- geodes:medium_quartz_bud
-- geodes:large_quartz_bud
 - infusion_table:infusion_table
 - ironchests:copper_chest
 - ironchests:iron_chest
@@ -5449,91 +5272,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - ironchests:emerald_chest
 - ironchests:obsidian_chest
 - ironchests:crystal_chest
-- kibe:fluid_hopper
-- kibe:entangled_tank
-- kibe:entangled_chest
-- kibe:wither_proof_block
-- kibe:wither_proof_glass
-- kibe:wither_builder
-- kibe:placer
-- kibe:breaker
-- kibe:drawbridge
-- kibe:igniter
-- kibe:redstone_timer
-- kibe:trash_can
-- kibe:vacuum_hopper
-- kibe:xp_shower
-- kibe:xp_drain
-- kibe:heater
-- kibe:dehumidifier
-- kibe:chunk_loader
-- kibe:stone_spikes
-- kibe:iron_spikes
-- kibe:gold_spikes
-- kibe:diamond_spikes
-- kibe:cobblestone_generator_mk1
-- kibe:cobblestone_generator_mk2
-- kibe:cobblestone_generator_mk3
-- kibe:cobblestone_generator_mk4
-- kibe:cobblestone_generator_mk5
-- kibe:basalt_generator_mk1
-- kibe:basalt_generator_mk2
-- kibe:basalt_generator_mk3
-- kibe:basalt_generator_mk4
-- kibe:basalt_generator_mk5
-- kibe:regular_conveyor_belt
-- kibe:fast_conveyor_belt
-- kibe:express_conveyor_belt
-- #kibe:elevators
-- morevillagers:purpur_altar
-- morevillagers:mining_bench
-- nicemod:cobblestone_basis
-- nicemod:cobblestone_column
-- nicemod:cobblestone_capital
-- nicemod:cobblestone_hole
-- nicemod:cobblestone_recess
-- nicemod:cobblestone_recess_a
-- nicemod:cobblestone_slabhole
-- nicemod:cobblestone_slabrecess
-- nicemod:cobblestone_slabrecess_a
-- nicemod:cobbled_deepslate_basis
-- nicemod:cobbled_deepslate_column
-- nicemod:cobbled_deepslate_capital
-- nicemod:cobbled_deepslate_hole
-- nicemod:cobbled_deepslate_recess
-- nicemod:cobbled_deepslate_recess_a
-- nicemod:cobbled_deepslate_slabhole
-- nicemod:cobbled_deepslate_slabrecess
-- nicemod:cobbled_deepslate_slabrecess_a
-- nicemod:stone_brick_basis
-- nicemod:stone_brick_column
-- nicemod:stone_brick_capital
-- nicemod:stone_brick_hole
-- nicemod:stone_brick_recess
-- nicemod:stone_brick_recess_a
-- nicemod:stone_brick_slabhole
-- nicemod:stone_brick_slabrecess
-- nicemod:stone_brick_slabrecess_a
-- nicemod:stone_basis
-- nicemod:stone_column
-- nicemod:stone_capital
-- nicemod:stone_hole
-- nicemod:stone_recess
-- nicemod:stone_recess_a
-- nicemod:stone_slabhole
-- nicemod:stone_slabrecess
-- nicemod:stone_slabrecess_a
-- nicemod:sandstone_basis
-- nicemod:sandstone_column
-- nicemod:sandstone_capital
-- nicemod:sandstone_hole
-- nicemod:sandstone_recess
-- nicemod:sandstone_recess_a
-- nicemod:sandstone_slabhole
-- nicemod:sandstone_slabrecess
-- nicemod:sandstone_slabrecess_a
-- nicemod:weathercock
-- nicemod:cobblestone_gate
 - oxidized:vertical_cut_copper
 - oxidized:vertical_exposed_cut_copper
 - oxidized:vertical_weathered_cut_copper
@@ -5566,46 +5304,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - techreborn:sphalerite_ore
 - techreborn:tin_ore
 - techreborn:tungsten_ore
-- tokenablefurnaces:ironblast
-- tokenablefurnaces:ironsmoker
-- tokenablefurnaces:ironfurnace
-- tokenablefurnaces:ironhopper
-- tokenablefurnaces:ironchest
-- tokenablefurnaces:irontrappedchest
-- tokenablefurnaces:ironshulker
-- tokenablefurnaces:ironbarrel
-- tokenablefurnaces:goldblast
-- tokenablefurnaces:goldsmoker
-- tokenablefurnaces:goldfurnace
-- tokenablefurnaces:goldhopper
-- tokenablefurnaces:goldchest
-- tokenablefurnaces:goldtrappedchest
-- tokenablefurnaces:goldshulker
-- tokenablefurnaces:goldbarrel
-- tokenablefurnaces:diamondblast
-- tokenablefurnaces:diamondsmoker
-- tokenablefurnaces:diamondfurnace
-- tokenablefurnaces:diamondhopper
-- tokenablefurnaces:diamondchest
-- tokenablefurnaces:diamondtrappedchest
-- tokenablefurnaces:diamondshulker
-- tokenablefurnaces:diamondbarrel
-- tokenablefurnaces:netheriteblast
-- tokenablefurnaces:netheritesmoker
-- tokenablefurnaces:netheritefurnace
-- tokenablefurnaces:netheritehopper
-- tokenablefurnaces:netheritechest
-- tokenablefurnaces:netheritetrappedchest
-- tokenablefurnaces:netheriteshulker
-- tokenablefurnaces:netheritebarrel
-- tokenablefurnaces:amethystblast
-- tokenablefurnaces:amethystsmoker
-- tokenablefurnaces:amethystfurnace
-- tokenablefurnaces:amethysthopper
-- tokenablefurnaces:amethystchest
-- tokenablefurnaces:amethysttrappedchest
-- tokenablefurnaces:amethystshulker
-- tokenablefurnaces:amethystbarrel
 - twigs:lamp
 - twigs:soul_lamp
 - twigs:rocky_dirt
@@ -5712,413 +5410,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - twigs:waxed_weathered_copper_pillar
 - twigs:oxidized_copper_pillar
 - twigs:waxed_oxidized_copper_pillar
-- minecraft:stone
-- minecraft:granite
-- minecraft:polished_granite
-- minecraft:diorite
-- minecraft:polished_diorite
-- minecraft:andesite
-- minecraft:polished_andesite
-- minecraft:cobblestone
-- minecraft:gold_ore
-- minecraft:deepslate_gold_ore
-- minecraft:iron_ore
-- minecraft:deepslate_iron_ore
-- minecraft:coal_ore
-- minecraft:deepslate_coal_ore
-- minecraft:nether_gold_ore
-- minecraft:lapis_ore
-- minecraft:deepslate_lapis_ore
-- minecraft:lapis_block
-- minecraft:dispenser
-- minecraft:sandstone
-- minecraft:chiseled_sandstone
-- minecraft:cut_sandstone
-- minecraft:gold_block
-- minecraft:iron_block
-- minecraft:bricks
-- minecraft:mossy_cobblestone
-- minecraft:obsidian
-- minecraft:spawner
-- minecraft:diamond_ore
-- minecraft:deepslate_diamond_ore
-- minecraft:diamond_block
-- minecraft:furnace
-- minecraft:cobblestone_stairs
-- minecraft:stone_pressure_plate
-- minecraft:iron_door
-- minecraft:redstone_ore
-- minecraft:deepslate_redstone_ore
-- minecraft:netherrack
-- minecraft:basalt
-- minecraft:polished_basalt
-- minecraft:stone_bricks
-- minecraft:mossy_stone_bricks
-- minecraft:cracked_stone_bricks
-- minecraft:chiseled_stone_bricks
-- minecraft:iron_bars
-- minecraft:chain
-- minecraft:brick_stairs
-- minecraft:stone_brick_stairs
-- minecraft:nether_bricks
-- minecraft:nether_brick_fence
-- minecraft:nether_brick_stairs
-- minecraft:enchanting_table
-- minecraft:brewing_stand
-- minecraft:end_stone
-- minecraft:sandstone_stairs
-- minecraft:emerald_ore
-- minecraft:deepslate_emerald_ore
-- minecraft:ender_chest
-- minecraft:emerald_block
-- minecraft:light_weighted_pressure_plate
-- minecraft:heavy_weighted_pressure_plate
-- minecraft:redstone_block
-- minecraft:nether_quartz_ore
-- minecraft:hopper
-- minecraft:quartz_block
-- minecraft:chiseled_quartz_block
-- minecraft:quartz_pillar
-- minecraft:quartz_stairs
-- minecraft:dropper
-- minecraft:white_terracotta
-- minecraft:orange_terracotta
-- minecraft:magenta_terracotta
-- minecraft:light_blue_terracotta
-- minecraft:yellow_terracotta
-- minecraft:lime_terracotta
-- minecraft:pink_terracotta
-- minecraft:gray_terracotta
-- minecraft:light_gray_terracotta
-- minecraft:cyan_terracotta
-- minecraft:purple_terracotta
-- minecraft:blue_terracotta
-- minecraft:brown_terracotta
-- minecraft:green_terracotta
-- minecraft:red_terracotta
-- minecraft:black_terracotta
-- minecraft:iron_trapdoor
-- minecraft:prismarine
-- minecraft:prismarine_bricks
-- minecraft:dark_prismarine
-- minecraft:prismarine_stairs
-- minecraft:prismarine_brick_stairs
-- minecraft:dark_prismarine_stairs
-- minecraft:prismarine_slab
-- minecraft:prismarine_brick_slab
-- minecraft:dark_prismarine_slab
-- minecraft:terracotta
-- minecraft:coal_block
-- minecraft:red_sandstone
-- minecraft:chiseled_red_sandstone
-- minecraft:cut_red_sandstone
-- minecraft:red_sandstone_stairs
-- minecraft:stone_slab
-- minecraft:smooth_stone_slab
-- minecraft:sandstone_slab
-- minecraft:cut_sandstone_slab
-- minecraft:petrified_oak_slab
-- minecraft:cobblestone_slab
-- minecraft:brick_slab
-- minecraft:stone_brick_slab
-- minecraft:nether_brick_slab
-- minecraft:quartz_slab
-- minecraft:red_sandstone_slab
-- minecraft:cut_red_sandstone_slab
-- minecraft:purpur_slab
-- minecraft:smooth_stone
-- minecraft:smooth_sandstone
-- minecraft:smooth_quartz
-- minecraft:smooth_red_sandstone
-- minecraft:purpur_block
-- minecraft:purpur_pillar
-- minecraft:purpur_stairs
-- minecraft:end_stone_bricks
-- minecraft:magma_block
-- minecraft:red_nether_bricks
-- minecraft:bone_block
-- minecraft:observer
-- minecraft:white_glazed_terracotta
-- minecraft:orange_glazed_terracotta
-- minecraft:magenta_glazed_terracotta
-- minecraft:light_blue_glazed_terracotta
-- minecraft:yellow_glazed_terracotta
-- minecraft:lime_glazed_terracotta
-- minecraft:pink_glazed_terracotta
-- minecraft:gray_glazed_terracotta
-- minecraft:light_gray_glazed_terracotta
-- minecraft:cyan_glazed_terracotta
-- minecraft:purple_glazed_terracotta
-- minecraft:blue_glazed_terracotta
-- minecraft:brown_glazed_terracotta
-- minecraft:green_glazed_terracotta
-- minecraft:red_glazed_terracotta
-- minecraft:black_glazed_terracotta
-- minecraft:white_concrete
-- minecraft:orange_concrete
-- minecraft:magenta_concrete
-- minecraft:light_blue_concrete
-- minecraft:yellow_concrete
-- minecraft:lime_concrete
-- minecraft:pink_concrete
-- minecraft:gray_concrete
-- minecraft:light_gray_concrete
-- minecraft:cyan_concrete
-- minecraft:purple_concrete
-- minecraft:blue_concrete
-- minecraft:brown_concrete
-- minecraft:green_concrete
-- minecraft:red_concrete
-- minecraft:black_concrete
-- minecraft:dead_tube_coral_block
-- minecraft:dead_brain_coral_block
-- minecraft:dead_bubble_coral_block
-- minecraft:dead_fire_coral_block
-- minecraft:dead_horn_coral_block
-- minecraft:tube_coral_block
-- minecraft:brain_coral_block
-- minecraft:bubble_coral_block
-- minecraft:fire_coral_block
-- minecraft:horn_coral_block
-- minecraft:dead_tube_coral
-- minecraft:dead_brain_coral
-- minecraft:dead_bubble_coral
-- minecraft:dead_fire_coral
-- minecraft:dead_horn_coral
-- minecraft:dead_tube_coral_fan
-- minecraft:dead_brain_coral_fan
-- minecraft:dead_bubble_coral_fan
-- minecraft:dead_fire_coral_fan
-- minecraft:dead_horn_coral_fan
-- minecraft:dead_tube_coral_wall_fan
-- minecraft:dead_brain_coral_wall_fan
-- minecraft:dead_bubble_coral_wall_fan
-- minecraft:dead_fire_coral_wall_fan
-- minecraft:dead_horn_coral_wall_fan
-- minecraft:polished_granite_stairs
-- minecraft:smooth_red_sandstone_stairs
-- minecraft:mossy_stone_brick_stairs
-- minecraft:polished_diorite_stairs
-- minecraft:mossy_cobblestone_stairs
-- minecraft:end_stone_brick_stairs
-- minecraft:stone_stairs
-- minecraft:smooth_sandstone_stairs
-- minecraft:smooth_quartz_stairs
-- minecraft:granite_stairs
-- minecraft:andesite_stairs
-- minecraft:red_nether_brick_stairs
-- minecraft:polished_andesite_stairs
-- minecraft:diorite_stairs
-- minecraft:polished_granite_slab
-- minecraft:smooth_red_sandstone_slab
-- minecraft:mossy_stone_brick_slab
-- minecraft:polished_diorite_slab
-- minecraft:mossy_cobblestone_slab
-- minecraft:end_stone_brick_slab
-- minecraft:smooth_sandstone_slab
-- minecraft:smooth_quartz_slab
-- minecraft:granite_slab
-- minecraft:andesite_slab
-- minecraft:red_nether_brick_slab
-- minecraft:polished_andesite_slab
-- minecraft:diorite_slab
-- minecraft:smoker
-- minecraft:blast_furnace
-- minecraft:grindstone
-- minecraft:stonecutter
-- minecraft:bell
-- minecraft:lantern
-- minecraft:soul_lantern
-- minecraft:warped_nylium
-- minecraft:crimson_nylium
-- minecraft:netherite_block
-- minecraft:ancient_debris
-- minecraft:crying_obsidian
-- minecraft:respawn_anchor
-- minecraft:lodestone
-- minecraft:blackstone
-- minecraft:blackstone_stairs
-- minecraft:blackstone_slab
-- minecraft:polished_blackstone
-- minecraft:polished_blackstone_bricks
-- minecraft:cracked_polished_blackstone_bricks
-- minecraft:chiseled_polished_blackstone
-- minecraft:polished_blackstone_brick_slab
-- minecraft:polished_blackstone_brick_stairs
-- minecraft:gilded_blackstone
-- minecraft:polished_blackstone_stairs
-- minecraft:polished_blackstone_slab
-- minecraft:polished_blackstone_pressure_plate
-- minecraft:chiseled_nether_bricks
-- minecraft:cracked_nether_bricks
-- minecraft:quartz_bricks
-- minecraft:tuff
-- minecraft:calcite
-- minecraft:oxidized_copper
-- minecraft:weathered_copper
-- minecraft:exposed_copper
-- minecraft:copper_block
-- minecraft:copper_ore
-- minecraft:deepslate_copper_ore
-- minecraft:oxidized_cut_copper
-- minecraft:weathered_cut_copper
-- minecraft:exposed_cut_copper
-- minecraft:cut_copper
-- minecraft:oxidized_cut_copper_stairs
-- minecraft:weathered_cut_copper_stairs
-- minecraft:exposed_cut_copper_stairs
-- minecraft:cut_copper_stairs
-- minecraft:oxidized_cut_copper_slab
-- minecraft:weathered_cut_copper_slab
-- minecraft:exposed_cut_copper_slab
-- minecraft:cut_copper_slab
-- minecraft:waxed_copper_block
-- minecraft:waxed_weathered_copper
-- minecraft:waxed_exposed_copper
-- minecraft:waxed_oxidized_copper
-- minecraft:waxed_oxidized_cut_copper
-- minecraft:waxed_weathered_cut_copper
-- minecraft:waxed_exposed_cut_copper
-- minecraft:waxed_cut_copper
-- minecraft:waxed_oxidized_cut_copper_stairs
-- minecraft:waxed_weathered_cut_copper_stairs
-- minecraft:waxed_exposed_cut_copper_stairs
-- minecraft:waxed_cut_copper_stairs
-- minecraft:waxed_oxidized_cut_copper_slab
-- minecraft:waxed_weathered_cut_copper_slab
-- minecraft:waxed_exposed_cut_copper_slab
-- minecraft:waxed_cut_copper_slab
-- minecraft:lightning_rod
-- minecraft:pointed_dripstone
-- minecraft:dripstone_block
-- minecraft:deepslate
-- minecraft:cobbled_deepslate
-- minecraft:cobbled_deepslate_stairs
-- minecraft:cobbled_deepslate_slab
-- minecraft:polished_deepslate
-- minecraft:polished_deepslate_stairs
-- minecraft:polished_deepslate_slab
-- minecraft:deepslate_tiles
-- minecraft:deepslate_tile_stairs
-- minecraft:deepslate_tile_slab
-- minecraft:deepslate_bricks
-- minecraft:deepslate_brick_stairs
-- minecraft:deepslate_brick_slab
-- minecraft:chiseled_deepslate
-- minecraft:cracked_deepslate_bricks
-- minecraft:cracked_deepslate_tiles
-- minecraft:smooth_basalt
-- minecraft:raw_iron_block
-- minecraft:raw_copper_block
-- minecraft:raw_gold_block
-- minecraft:ice
-- minecraft:packed_ice
-- minecraft:blue_ice
-- minecraft:stone_button
-- minecraft:piston
-- minecraft:sticky_piston
-- minecraft:piston_head
-- minecraft:amethyst_cluster
-- minecraft:small_amethyst_bud
-- minecraft:medium_amethyst_bud
-- minecraft:large_amethyst_bud
-- minecraft:amethyst_block
-- minecraft:budding_amethyst
-- minecraft:infested_cobblestone
-- minecraft:infested_chiseled_stone_bricks
-- minecraft:infested_cracked_stone_bricks
-- minecraft:infested_deepslate
-- minecraft:infested_stone
-- minecraft:infested_mossy_stone_bricks
-- minecraft:infested_stone_bricks
-- #minecraft:walls
-- #minecraft:shulker_boxes
-- #minecraft:anvil
-- #minecraft:cauldrons
-- #minecraft:rails
-- minecraft:conduit
-- twm:mud_bricks
-- twm:pearlescent_froglight
-- twm:verdant_froglight
-- twm:ochre_froglight
-- #universal_ores:ores/coal
-- #universal_ores:ores/iron
-- #universal_ores:ores/gold
-- #universal_ores:ores/copper
-- #universal_ores:ores/redstone
-- #universal_ores:ores/lapis
-- #universal_ores:ores/emerald
-- #universal_ores:ores/diamond
-- upgradedechests:spatialchest
-- upgradedechests:riftchest
-- us:normalironshulker
-- us:blackironshulker
-- us:blueironshulker
-- us:brownironshulker
-- us:cyanironshulker
-- us:grayironshulker
-- us:greenironshulker
-- us:light_blueironshulker
-- us:light_grayironshulker
-- us:limeironshulker
-- us:magentaironshulker
-- us:orangeironshulker
-- us:pinkironshulker
-- us:purpleironshulker
-- us:redironshulker
-- us:whiteironshulker
-- us:yellowironshulker
-- us:normalgoldshulker
-- us:blackgoldshulker
-- us:bluegoldshulker
-- us:browngoldshulker
-- us:cyangoldshulker
-- us:graygoldshulker
-- us:greengoldshulker
-- us:light_bluegoldshulker
-- us:light_graygoldshulker
-- us:limegoldshulker
-- us:magentagoldshulker
-- us:orangegoldshulker
-- us:pinkgoldshulker
-- us:purplegoldshulker
-- us:redgoldshulker
-- us:whitegoldshulker
-- us:yellowgoldshulker
-- us:normaldiamondshulker
-- us:blackdiamondshulker
-- us:bluediamondshulker
-- us:browndiamondshulker
-- us:cyandiamondshulker
-- us:graydiamondshulker
-- us:greendiamondshulker
-- us:light_bluediamondshulker
-- us:light_graydiamondshulker
-- us:limediamondshulker
-- us:magentadiamondshulker
-- us:orangediamondshulker
-- us:pinkdiamondshulker
-- us:purplediamondshulker
-- us:reddiamondshulker
-- us:whitediamondshulker
-- us:yellowdiamondshulker
-- us:normalnetheriteshulker
-- us:blacknetheriteshulker
-- us:bluenetheriteshulker
-- us:brownnetheriteshulker
-- us:cyannetheriteshulker
-- us:graynetheriteshulker
-- us:greennetheriteshulker
-- us:light_bluenetheriteshulker
-- us:light_graynetheriteshulker
-- us:limenetheriteshulker
-- us:magentanetheriteshulker
-- us:orangenetheriteshulker
-- us:pinknetheriteshulker
-- us:purplenetheriteshulker
-- us:rednetheriteshulker
-- us:whitenetheriteshulker
-- us:yellownetheriteshulker
 
 #minecraft:unstable_bottom_center
 - #minecraft:fence_gates
@@ -6250,7 +5541,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - blockus:white_oak_fence
 - techreborn:rubber_fence
 - twigs:stripped_bamboo_fence
-- twm:mangrove_fence
 
 #c:bronze_blocks
 - techreborn:bronze_storage_block
@@ -6318,24 +5608,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:coarse_dirt
 - minecraft:snow
 
-#kibe:elevators
-- kibe:white_elevator
-- kibe:orange_elevator
-- kibe:magenta_elevator
-- kibe:light_blue_elevator
-- kibe:yellow_elevator
-- kibe:lime_elevator
-- kibe:pink_elevator
-- kibe:gray_elevator
-- kibe:light_gray_elevator
-- kibe:cyan_elevator
-- kibe:blue_elevator
-- kibe:purple_elevator
-- kibe:green_elevator
-- kibe:brown_elevator
-- kibe:red_elevator
-- kibe:black_elevator
-
 #blockus:tuff_blocks
 - blockus:polished_tuff
 - blockus:polished_tuff_stairs
@@ -6387,13 +5659,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - blockus:netherite_stairs
 - blockus:netherite_slab
 - ironchests:diamond_chest
-- kibe:cobblestone_generator_mk5
-- kibe:basalt_generator_mk5
-- kibe:obsidian_sand
-- kibe:wither_proof_block
-- kibe:wither_proof_sand
-- kibe:wither_proof_glass
-- kibe:wither_builder
 - techreborn:iridium_ore
 - techreborn:sheldonite_ore
 - techreborn:sodalite_ore
@@ -6483,7 +5748,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - blockus:white_oak_leaves
 - techreborn:rubber_leaves
 - #minecraft:saplings
-- twm:mangrove_leaves
 
 #minecraft:cave_vines
 - minecraft:cave_vines_plant
@@ -6508,10 +5772,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:structure_block
 - minecraft:jigsaw
 - minecraft:moving_piston
-- kibe:wither_proof_block
-- kibe:wither_proof_sand
-- kibe:wither_proof_glass
-- kibe:wither_builder
 
 #minecraft:acacia_logs
 - minecraft:acacia_log
@@ -6577,22 +5837,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #minecraft:copper_ores
 - minecraft:copper_ore
 - minecraft:deepslate_copper_ore
-- #universal_ores:ores/copper
 
 #minecraft:small_dripleaf_placeable
 - minecraft:clay
 - minecraft:moss_block
-
-#mobscarecrow:creeper_scarecrow
-- mobscarecrow:creeper_scarecrow
-
-#origins:natural_stone
-- #minecraft:base_stone_overworld
-- #minecraft:base_stone_nether
-- minecraft:sandstone
-- minecraft:smooth_sandstone
-- minecraft:red_sandstone
-- minecraft:smooth_red_sandstone
 
 #minecraft:logs_that_burn
 - #minecraft:dark_oak_logs
@@ -6697,30 +5945,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - farmersdelight:rice_bale
 - farmersdelight:rice_bag
 - farmersdelight:straw_bale
-- minecraft:nether_wart_block
-- minecraft:warped_wart_block
-- minecraft:hay_block
-- minecraft:dried_kelp_block
-- minecraft:target
-- minecraft:shroomlight
-- minecraft:sponge
-- minecraft:wet_sponge
-- minecraft:jungle_leaves
-- minecraft:oak_leaves
-- minecraft:spruce_leaves
-- minecraft:dark_oak_leaves
-- minecraft:acacia_leaves
-- minecraft:birch_leaves
-- minecraft:azalea_leaves
-- minecraft:flowering_azalea_leaves
-- minecraft:sculk_sensor
-- minecraft:moss_block
-- minecraft:moss_carpet
-- twm:mangrove_leaves
-- twm:sculk
-- twm:sculk_vein
-- twm:sculk_shrieker
-- twm:sculk_catalyst
 
 #terralith:savanna_granite
 - minecraft:granite
@@ -6777,17 +6001,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - ironchests:diamond_chest
 - ironchests:emerald_chest
 - ironchests:crystal_chest
-- kibe:chunk_loader
-- kibe:entangled_tank
-- kibe:entangled_chest
-- kibe:gold_spikes
-- kibe:diamond_spikes
-- kibe:basalt_generator_mk2
-- kibe:basalt_generator_mk3
-- kibe:basalt_generator_mk4
-- kibe:cobblestone_generator_mk2
-- kibe:cobblestone_generator_mk3
-- kibe:cobblestone_generator_mk4
 - techreborn:bauxite_ore
 - techreborn:cinnabar_ore
 - techreborn:galena_ore
@@ -6799,10 +6012,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - techreborn:silver_ore
 - techreborn:sphalerite_ore
 - techreborn:tin_ore
-- #universal_ores:ores/gold
-- #universal_ores:ores/redstone
-- #universal_ores:ores/emerald
-- #universal_ores:ores/diamond
 
 #blockus:diorite_blocks
 - blockus:diorite_bricks
@@ -6836,13 +6045,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - blockus:purpur_lines
 - #blockus:phantom_purpur_blocks
 
-#universal_ores:ores/emerald
-- universal_ores:andesite_emerald_ore
-- universal_ores:diorite_emerald_ore
-- universal_ores:granite_emerald_ore
-- universal_ores:tuff_emerald_ore
-- universal_ores:calcite_emerald_ore
-
 #minecraft:wooden_slabs
 - minecraft:oak_slab
 - minecraft:spruce_slab
@@ -6858,7 +6060,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - blockus:white_oak_slab
 - techreborn:rubber_plank_slab
 - twigs:stripped_bamboo_slab
-- twm:mangrove_slab
 
 #blockus:asphalt
 - blockus:asphalt
@@ -7377,42 +6578,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - farmersdelight:crimson_pantry
 - farmersdelight:warped_pantry
 - ironchests:christmas_chest
-- kibe:big_torch
-- mobscarecrow:scarecrow
-- morevillagers:oceanography_table
-- morevillagers:woodworking_table
-- morevillagers:decayed_workbench
-- morevillagers:blueprint_table
-- morevillagers:gardening_table
-- morevillagers:hunting_post
-- nicemod:bridge
-- nicemod:cannon
-- nicemod:mortirer
-- nicemod:crate1
-- nicemod:crate1_a
-- nicemod:crate2
-- nicemod:crate3
-- nicemod:oak_support
-- nicemod:oak_big_support
-- nicemod:oak_small_support
-- nicemod:oak_wall_support
-- nicemod:oak_wall_lantern
-- nicemod:oak_wall_lantern_a
-- nicemod:oak_window
-- nicemod:oak_crossbar
-- nicemod:oak_crossbar_a
-- nicemod:oak_crossbar_b
-- nicemod:oak_crossbar_support
-- nicemod:oak_crossbar_platform
-- nicemod:oak_platform
-- nicemod:oak_post
-- tokenablefurnaces:dirtchest
-- tokenablefurnaces:dirttrappedchest
-- tokenablefurnaces:christmaschest
-- tokenablefurnaces:christmastrappedchest
-- tokenablefurnaces:pumpkinchest
-- tokenablefurnaces:pumpkintrappedchest
-- tradingpost:trading_post
 - twigs:oak_table
 - twigs:birch_table
 - twigs:jungle_table
@@ -7429,99 +6594,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - twigs:warped_shroomlamp
 - twigs:stripped_bamboo_sign
 - twigs:stripped_bamboo_wall_sign
-- minecraft:note_block
-- minecraft:attached_melon_stem
-- minecraft:attached_pumpkin_stem
-- minecraft:azalea
-- minecraft:bamboo
-- minecraft:barrel
-- minecraft:bee_nest
-- minecraft:beehive
-- minecraft:beetroots
-- minecraft:big_dripleaf_stem
-- minecraft:big_dripleaf
-- minecraft:bookshelf
-- minecraft:brown_mushroom_block
-- minecraft:brown_mushroom
-- minecraft:campfire
-- minecraft:carrots
-- minecraft:cartography_table
-- minecraft:carved_pumpkin
-- minecraft:cave_vines_plant
-- minecraft:cave_vines
-- minecraft:chest
-- minecraft:chorus_flower
-- minecraft:chorus_plant
-- minecraft:cocoa
-- minecraft:composter
-- minecraft:crafting_table
-- minecraft:crimson_fungus
-- minecraft:daylight_detector
-- minecraft:dead_bush
-- minecraft:fern
-- minecraft:fletching_table
-- minecraft:glow_lichen
-- minecraft:grass
-- minecraft:hanging_roots
-- minecraft:jack_o_lantern
-- minecraft:jukebox
-- minecraft:ladder
-- minecraft:large_fern
-- minecraft:lectern
-- minecraft:lily_pad
-- minecraft:loom
-- minecraft:melon_stem
-- minecraft:melon
-- minecraft:mushroom_stem
-- minecraft:nether_wart
-- minecraft:potatoes
-- minecraft:pumpkin_stem
-- minecraft:pumpkin
-- minecraft:red_mushroom_block
-- minecraft:red_mushroom
-- minecraft:scaffolding
-- minecraft:small_dripleaf
-- minecraft:smithing_table
-- minecraft:soul_campfire
-- minecraft:spore_blossom
-- minecraft:sugar_cane
-- minecraft:sweet_berry_bush
-- minecraft:tall_grass
-- minecraft:trapped_chest
-- minecraft:twisting_vines_plant
-- minecraft:twisting_vines
-- minecraft:vine
-- minecraft:warped_fungus
-- minecraft:weeping_vines_plant
-- minecraft:weeping_vines
-- minecraft:wheat
-- #minecraft:banners
-- #minecraft:fence_gates
-- #minecraft:logs
-- #minecraft:planks
-- #minecraft:saplings
-- #minecraft:signs
-- #minecraft:wooden_buttons
-- #minecraft:wooden_doors
-- #minecraft:wooden_fences
-- #minecraft:wooden_pressure_plates
-- #minecraft:wooden_slabs
-- #minecraft:wooden_stairs
-- #minecraft:wooden_trapdoors
-- twm:mangrove_log
-- twm:mangrove_planks
-- twm:mangrove_stairs
-- twm:mangrove_door
-- twm:stripped_mangrove_log
-- twm:stripped_mangrove_wood
-- twm:mangrove_wood
-- twm:mangrove_fence
-- twm:mangrove_slab
-- twm:mangrove_fence_gate
-- twm:mangrove_pressure_plate
-- twm:mangrove_trapdoor
-- twm:mangrove_roots
-- twm:mangrove_button
 
 #terralith:tophack/blue_concrete
 - minecraft:blue_concrete
@@ -7684,12 +6756,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - blockus:white_oak_planks
 - techreborn:rubber_planks
 - twigs:stripped_bamboo_planks
-- twm:mangrove_planks
 
 #minecraft:diamond_ores
 - minecraft:diamond_ore
 - minecraft:deepslate_diamond_ore
-- #universal_ores:ores/diamond
 
 #beaconoverhaul:low_potency
 - minecraft:diamond_block
@@ -7781,9 +6851,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - minecraft:red_candle
 - minecraft:black_candle
 
-#yigd:replace_blacklist
-- minecraft:bedrock
-
 #decorative_blocks:beams
 - decorative_blocks:spruce_beam
 - decorative_blocks:acacia_beam
@@ -7793,10 +6860,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - decorative_blocks:jungle_beam
 - decorative_blocks:oak_beam
 - decorative_blocks:crimson_beam
-
-#origins:cobwebs
-- minecraft:cobweb
-- origins:temporary_cobweb
 
 #c:iridium_reinforced_tungstensteel_blocks
 - techreborn:iridium_reinforced_tungstensteel_storage_block
@@ -7838,13 +6901,6 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 - architects_palette:osseous_brick_slab
 - architects_palette:osseous_brick_stairs
 - architects_palette:osseous_pillar
-
-#universal_ores:ores/coal
-- universal_ores:andesite_coal_ore
-- universal_ores:diorite_coal_ore
-- universal_ores:granite_coal_ore
-- universal_ores:tuff_coal_ore
-- universal_ores:calcite_coal_ore
 
 #terralith:trickle_down
 - minecraft:stone

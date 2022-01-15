@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Jan 12, 2022, 8:25:07 PM
+To refresh this file, delete it and run /reload command again! Last updated: Jan 13, 2022, 3:26:38 PM
 
 #minecraft:lava
 - minecraft:lava
@@ -7,15 +7,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Jan
 #minecraft:water
 - minecraft:water
 - minecraft:flowing_water
-- milk:flowing_milk
-- milk:still_milk
 
 #decorative_blocks:thatch
 - decorative_blocks:thatch
 - decorative_blocks:flowing_thatch
 
 #ae2:blacklisted/annihilation_plane
-
-#c:milk
-- milk:flowing_milk
-- milk:still_milk

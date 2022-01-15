@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "alchemy",
+    "level": 24,
+    "item": "minecraft:custom_item",
+    "object": "botania:brew_flask"
+}
